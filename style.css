@@ -16,14 +16,14 @@
     width: 100%;
 }
 
-.header .more_info__link {
+.header .more-info__link {
     font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
     .header {
         text-align: center;
-}
+    }
 }
 
 .main {
@@ -53,7 +53,7 @@ h3 {
 }
 
 input,
-button{
+button {
     outline: none;
 }
 
